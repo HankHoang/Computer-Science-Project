@@ -1,2 +1,2 @@
-# Computer-Science-Project
-Face Recognition 
+# Computer-Vision-Project
+Linear Regression for Face Recognition
